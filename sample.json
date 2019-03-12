@@ -1,0 +1,26 @@
+[
+    {
+        "userId": "1",
+        "email": "cmeyerwps@gmail.com",
+        "password": "password",
+        "enabled": true
+    },
+    {
+        "userId": "2",
+        "email": "cmeyerwps1@gmail.com",
+        "password": "password1",
+        "enabled": false
+    },
+    {
+    	"userId": "3",
+    	"email": "rakatashii@github.com",
+        "password": "password",
+        "enabled": false
+    },
+    {
+        "userId": "4",
+        "email": "rakatashii@walmart.com",
+        "password": "password",
+        "enabled": true
+    }
+]
